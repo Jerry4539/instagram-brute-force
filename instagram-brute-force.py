@@ -1,3 +1,7 @@
+## Author  : Jerry4539 
+## Github  : github.com/Jerry4539 
+## Insta   : xhacking_officail
+
 from webbot import Browser
 from pynput.keyboard import Key, Controller
 import time
